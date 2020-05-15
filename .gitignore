@@ -1,0 +1,13 @@
+# ignore file format
+*.zip
+*.pptx
+*.docx
+*.pdf
+*.hwp
+*.txt
+*.jpg
+*.png
+*.mp4
+
+# ignore directory
+Assignment/
